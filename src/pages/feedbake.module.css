@@ -1,0 +1,12 @@
+.main {
+    display : flex;
+    gap : 15px ; 
+    width: 100%;
+    
+}
+.column1{
+    width: 20%;
+}
+.column2{
+    width: 80%;
+}

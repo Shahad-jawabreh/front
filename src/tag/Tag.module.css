@@ -1,0 +1,14 @@
+.tag{
+    border: 0;
+    background-color: var(--tag-background);
+    color: var(--tag-color);
+    padding: 5px 13px;
+    border-radius: .7rem;
+    font-family: 'Jost', sans-serif;
+    font-weight: bold;
+    margin: 3px;
+}
+.active{
+    background-color: var(--tag-color);
+    color:var(--tag-background);  
+}

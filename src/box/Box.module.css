@@ -1,0 +1,25 @@
+.box{
+    background-color: var(--box-background);
+    border-radius: var(--border-radius);
+    padding: 15px;
+    margin-bottom: 1rem;
+}
+.colorfull{
+    background-image: radial-gradient(circle, #70baf7 0%, #a440f2 35%, #ed9f8c 100%);
+    background-size: 210% 160%;
+    background-position: -250px -290px;
+    color: var(--text-light);
+}
+.paddingex{
+    padding-top:40px;
+}
+.colorfull h1{
+    font-weight: bold;
+    font-size: 1rem;
+    margin-bottom: 0;
+}
+.colorfull h2{
+    margin-top: 0;
+    font-size: 1rem;
+    font-weight: normal;
+}
